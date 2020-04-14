@@ -8,7 +8,7 @@ with open(path.join(this_directory, 'README.MD')) as f:
 
 setup(
     name="sqliteclosedhelper",
-    version="1.0.0",
+    version="1.0.2",
     long_description=long_description,
     long_description_content_type='text/markdown',
     description="Sqlite helper module",
